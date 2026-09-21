@@ -1,9 +1,5 @@
 # Weather API BDD Tests
 
-Cucumber BDD tests for the free [Open-Meteo](https://open-meteo.com/en/docs) weather API.
-
-**Stack:** Java 17 - Gradle - Cucumber 7 - JUnit 5 - REST Assured - AssertJ
-
 ## Scenarios
 
 | Feature | Scenario | Tags |
