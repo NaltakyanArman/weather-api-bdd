@@ -12,13 +12,6 @@
 
 Exact temperature values are never asserted, only structure and status codes.
 
-## Requirements
-
-- Java 17 (JDK)
-- Internet access (tests call the live API, no key needed)
-
-Gradle is downloaded automatically by the wrapper.
-
 ## Run
 
 ```bash
